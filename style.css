@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+}
+header{
+    margin: 0px;
+    align-items: center;
+    display: flex;
+    background-color: #daa520;
+    height: 65px;
+    border-style:solid;
+}
+a{
+    font-weight: bolder;
+    margin-left:190px;
+    justify-content: space-between;
+    font-size: 25px;
+    color: antiquewhite;
+    text-decoration: none;
+}
