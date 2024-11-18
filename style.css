@@ -16,7 +16,7 @@ body {
 }
 
 header {
-    margin: 0px;
+    width: 120%;
     align-items: center;
     display: flex;
     background-color: aliceblue;
