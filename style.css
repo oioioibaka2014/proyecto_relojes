@@ -249,3 +249,41 @@ a {
 .omnitrix img {
     border-radius: 5px;
 }
+
+/*Parte Tiago Celiz*/
+ .pie {
+    background-image: url(imagenes/black-low-poly-geometric-background-vector.jpeg);
+    color: #e1e1e1;
+}
+t {
+    font-size: x-large;
+    font-weight: bolder;
+    margin-left: 33%;
+    flex: content;
+    align-items: center;
+    padding: auto;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    justify-content: space-between;
+}
+n {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    font-weight: bolder;
+    margin-left: 20px;
+    padding: auto;
+}
+.slide {
+    align-items: center;
+    margin-left: 30%;
+    display: grid;
+}
+.prove {
+    margin-left: 40%;
+}
+.ig {
+    align-items: center;
+    margin-left: 30%;
+    display: grid;
+    padding: auto;
+}
+/*FIN PARTE TIAGO CELIZ*/
